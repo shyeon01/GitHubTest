@@ -1,2 +1,2 @@
 # GitHubTest
-for GitHub repository test
+for GitHub Desktop & repository test
